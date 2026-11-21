@@ -1,0 +1,53 @@
+model_family,model,clip_length_seconds,resolution,sound,credits,usd_at_entry_price,checked_on
+Grok,Grok Imagine Video 1.5 Lite,5,720p,not offered,43,0.95,2026-11-21
+Grok,Grok Imagine Video 1.5 Lite,10,720p,not offered,86,1.91,2026-11-21
+Grok,Grok Video,5,Default output,not offered,65,1.44,2026-11-21
+Grok,Grok Video,10,Default output,not offered,129,2.86,2026-11-21
+Seedance,Seedance 2.0 Mini,5,720p,on,43,0.95,2026-11-21
+Seedance,Seedance 2.0 Mini,10,720p,on,86,1.91,2026-11-21
+Seedance,Seedance 2.0 Fast,5,720p,on,108,2.39,2026-11-21
+Seedance,Seedance 2.0 Fast,10,720p,on,215,4.77,2026-11-21
+Seedance,Seedance 2.0,5,720p,on,193,4.28,2026-11-21
+Seedance,Seedance 2.0,10,720p,on,386,8.56,2026-11-21
+Seedance,Seedance 2.5,5,720p,on,301,6.67,2026-11-21
+Seedance,Seedance 2.5,10,720p,on,601,13.32,2026-11-21
+Kling,Kling 3.0 Omni,5,Default output,on,54,1.20,2026-11-21
+Kling,Kling 3.0 Omni,10,Default output,on,108,2.39,2026-11-21
+Kling,Kling 3.0 Omni (Frames),5,Default output,on,54,1.20,2026-11-21
+Kling,Kling 3.0 Omni (Frames),10,Default output,on,108,2.39,2026-11-21
+Kling,Kling 3.0 Turbo,5,720p,not offered,65,1.44,2026-11-21
+Kling,Kling 3.0 Turbo,10,720p,not offered,129,2.86,2026-11-21
+Kling,Kling 3.0 Standard,5,Default output,on,76,1.68,2026-11-21
+Kling,Kling 3.0 Standard,10,Default output,on,151,3.35,2026-11-21
+Kling,Kling 2.6 Video,5,Default output,on,86,1.91,2026-11-21
+Kling,Kling 2.6 Video,10,Default output,on,172,3.81,2026-11-21
+Kling,Kling 3.0 Pro,5,Default output,on,86,1.91,2026-11-21
+Kling,Kling 3.0 Pro,10,Default output,on,172,3.81,2026-11-21
+Kling,Kling 4.0,5,720p,not offered,97,2.15,2026-11-21
+Kling,Kling 4.0,10,720p,not offered,193,4.28,2026-11-21
+Kling,Kling 4.0 Flash,5,720p,not offered,129,2.86,2026-11-21
+Kling,Kling 4.0 Flash,10,720p,not offered,258,5.72,2026-11-21
+Kling,Kling 3.0 4K,5,Default output,on,258,5.72,2026-11-21
+Kling,Kling 3.0 4K,10,Default output,on,515,11.42,2026-11-21
+Wan,Wan 2.6,5,720p,not offered,65,1.44,2026-11-21
+Wan,Wan 2.6,10,720p,not offered,129,2.86,2026-11-21
+Wan,Wan 2.7,5,720p,not offered,65,1.44,2026-11-21
+Wan,Wan 2.7,10,720p,not offered,129,2.86,2026-11-21
+Wan,Wan 3.0,5,720p,not offered,65,1.44,2026-11-21
+Wan,Wan 3.0,10,720p,not offered,129,2.86,2026-11-21
+Wan,Wan 3.0 Prime,5,720p,not offered,118,2.62,2026-11-21
+Wan,Wan 3.0 Prime,10,720p,not offered,236,5.23,2026-11-21
+MiniMax,MiniMax H3,5,2K,not offered,86,1.91,2026-11-21
+MiniMax,MiniMax H3,10,2K,not offered,172,3.81,2026-11-21
+MiniMax,MiniMax H3 Max,5,768p,not offered,108,2.39,2026-11-21
+MiniMax,MiniMax H3 Max,10,768p,not offered,215,4.77,2026-11-21
+Gemini,Gemini Omni Flash 1.2,5,720p,not offered,97,2.15,2026-11-21
+Gemini,Gemini Omni Flash 1.2,10,720p,not offered,193,4.28,2026-11-21
+Gemini,Gemini Omni Flash,5,720p,not offered,129,2.86,2026-11-21
+Gemini,Gemini Omni Flash,10,720p,not offered,258,5.72,2026-11-21
+Gemini,Gemini Omni Flash 1.1,5,720p,not offered,129,2.86,2026-11-21
+Gemini,Gemini Omni Flash 1.1,10,720p,not offered,258,5.72,2026-11-21
+Happy Horse Video,Happy Horse Video,5,720p,not offered,108,2.39,2026-11-21
+Happy Horse Video,Happy Horse Video,10,720p,not offered,215,4.77,2026-11-21
+FLUX,FLUX 3 Video,5,720p,on,258,5.72,2026-11-21
+FLUX,FLUX 3 Video,10,720p,on,515,11.42,2026-11-21

@@ -1,0 +1,527 @@
+{
+  "source": "https://twistavo.com/pricing/clip-cost",
+  "checked_on": "2026-11-21",
+  "currency_note": "USD at the $3.99 entry price (Mini plan, 180 credits): 1 credit = $0.0222",
+  "rows": [
+    {
+      "model_family": "Grok",
+      "model": "Grok Imagine Video 1.5 Lite",
+      "clip_length_seconds": 5,
+      "resolution": "720p",
+      "sound": "not offered",
+      "credits": 43,
+      "usd_at_entry_price": "0.95",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Grok",
+      "model": "Grok Imagine Video 1.5 Lite",
+      "clip_length_seconds": 10,
+      "resolution": "720p",
+      "sound": "not offered",
+      "credits": 86,
+      "usd_at_entry_price": "1.91",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Grok",
+      "model": "Grok Video",
+      "clip_length_seconds": 5,
+      "resolution": "Default output",
+      "sound": "not offered",
+      "credits": 65,
+      "usd_at_entry_price": "1.44",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Grok",
+      "model": "Grok Video",
+      "clip_length_seconds": 10,
+      "resolution": "Default output",
+      "sound": "not offered",
+      "credits": 129,
+      "usd_at_entry_price": "2.86",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Seedance",
+      "model": "Seedance 2.0 Mini",
+      "clip_length_seconds": 5,
+      "resolution": "720p",
+      "sound": "on",
+      "credits": 43,
+      "usd_at_entry_price": "0.95",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Seedance",
+      "model": "Seedance 2.0 Mini",
+      "clip_length_seconds": 10,
+      "resolution": "720p",
+      "sound": "on",
+      "credits": 86,
+      "usd_at_entry_price": "1.91",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Seedance",
+      "model": "Seedance 2.0 Fast",
+      "clip_length_seconds": 5,
+      "resolution": "720p",
+      "sound": "on",
+      "credits": 108,
+      "usd_at_entry_price": "2.39",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Seedance",
+      "model": "Seedance 2.0 Fast",
+      "clip_length_seconds": 10,
+      "resolution": "720p",
+      "sound": "on",
+      "credits": 215,
+      "usd_at_entry_price": "4.77",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Seedance",
+      "model": "Seedance 2.0",
+      "clip_length_seconds": 5,
+      "resolution": "720p",
+      "sound": "on",
+      "credits": 193,
+      "usd_at_entry_price": "4.28",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Seedance",
+      "model": "Seedance 2.0",
+      "clip_length_seconds": 10,
+      "resolution": "720p",
+      "sound": "on",
+      "credits": 386,
+      "usd_at_entry_price": "8.56",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Seedance",
+      "model": "Seedance 2.5",
+      "clip_length_seconds": 5,
+      "resolution": "720p",
+      "sound": "on",
+      "credits": 301,
+      "usd_at_entry_price": "6.67",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Seedance",
+      "model": "Seedance 2.5",
+      "clip_length_seconds": 10,
+      "resolution": "720p",
+      "sound": "on",
+      "credits": 601,
+      "usd_at_entry_price": "13.32",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Kling",
+      "model": "Kling 3.0 Omni",
+      "clip_length_seconds": 5,
+      "resolution": "Default output",
+      "sound": "on",
+      "credits": 54,
+      "usd_at_entry_price": "1.20",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Kling",
+      "model": "Kling 3.0 Omni",
+      "clip_length_seconds": 10,
+      "resolution": "Default output",
+      "sound": "on",
+      "credits": 108,
+      "usd_at_entry_price": "2.39",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Kling",
+      "model": "Kling 3.0 Omni (Frames)",
+      "clip_length_seconds": 5,
+      "resolution": "Default output",
+      "sound": "on",
+      "credits": 54,
+      "usd_at_entry_price": "1.20",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Kling",
+      "model": "Kling 3.0 Omni (Frames)",
+      "clip_length_seconds": 10,
+      "resolution": "Default output",
+      "sound": "on",
+      "credits": 108,
+      "usd_at_entry_price": "2.39",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Kling",
+      "model": "Kling 3.0 Turbo",
+      "clip_length_seconds": 5,
+      "resolution": "720p",
+      "sound": "not offered",
+      "credits": 65,
+      "usd_at_entry_price": "1.44",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Kling",
+      "model": "Kling 3.0 Turbo",
+      "clip_length_seconds": 10,
+      "resolution": "720p",
+      "sound": "not offered",
+      "credits": 129,
+      "usd_at_entry_price": "2.86",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Kling",
+      "model": "Kling 3.0 Standard",
+      "clip_length_seconds": 5,
+      "resolution": "Default output",
+      "sound": "on",
+      "credits": 76,
+      "usd_at_entry_price": "1.68",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Kling",
+      "model": "Kling 3.0 Standard",
+      "clip_length_seconds": 10,
+      "resolution": "Default output",
+      "sound": "on",
+      "credits": 151,
+      "usd_at_entry_price": "3.35",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Kling",
+      "model": "Kling 2.6 Video",
+      "clip_length_seconds": 5,
+      "resolution": "Default output",
+      "sound": "on",
+      "credits": 86,
+      "usd_at_entry_price": "1.91",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Kling",
+      "model": "Kling 2.6 Video",
+      "clip_length_seconds": 10,
+      "resolution": "Default output",
+      "sound": "on",
+      "credits": 172,
+      "usd_at_entry_price": "3.81",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Kling",
+      "model": "Kling 3.0 Pro",
+      "clip_length_seconds": 5,
+      "resolution": "Default output",
+      "sound": "on",
+      "credits": 86,
+      "usd_at_entry_price": "1.91",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Kling",
+      "model": "Kling 3.0 Pro",
+      "clip_length_seconds": 10,
+      "resolution": "Default output",
+      "sound": "on",
+      "credits": 172,
+      "usd_at_entry_price": "3.81",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Kling",
+      "model": "Kling 4.0",
+      "clip_length_seconds": 5,
+      "resolution": "720p",
+      "sound": "not offered",
+      "credits": 97,
+      "usd_at_entry_price": "2.15",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Kling",
+      "model": "Kling 4.0",
+      "clip_length_seconds": 10,
+      "resolution": "720p",
+      "sound": "not offered",
+      "credits": 193,
+      "usd_at_entry_price": "4.28",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Kling",
+      "model": "Kling 4.0 Flash",
+      "clip_length_seconds": 5,
+      "resolution": "720p",
+      "sound": "not offered",
+      "credits": 129,
+      "usd_at_entry_price": "2.86",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Kling",
+      "model": "Kling 4.0 Flash",
+      "clip_length_seconds": 10,
+      "resolution": "720p",
+      "sound": "not offered",
+      "credits": 258,
+      "usd_at_entry_price": "5.72",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Kling",
+      "model": "Kling 3.0 4K",
+      "clip_length_seconds": 5,
+      "resolution": "Default output",
+      "sound": "on",
+      "credits": 258,
+      "usd_at_entry_price": "5.72",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Kling",
+      "model": "Kling 3.0 4K",
+      "clip_length_seconds": 10,
+      "resolution": "Default output",
+      "sound": "on",
+      "credits": 515,
+      "usd_at_entry_price": "11.42",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Wan",
+      "model": "Wan 2.6",
+      "clip_length_seconds": 5,
+      "resolution": "720p",
+      "sound": "not offered",
+      "credits": 65,
+      "usd_at_entry_price": "1.44",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Wan",
+      "model": "Wan 2.6",
+      "clip_length_seconds": 10,
+      "resolution": "720p",
+      "sound": "not offered",
+      "credits": 129,
+      "usd_at_entry_price": "2.86",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Wan",
+      "model": "Wan 2.7",
+      "clip_length_seconds": 5,
+      "resolution": "720p",
+      "sound": "not offered",
+      "credits": 65,
+      "usd_at_entry_price": "1.44",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Wan",
+      "model": "Wan 2.7",
+      "clip_length_seconds": 10,
+      "resolution": "720p",
+      "sound": "not offered",
+      "credits": 129,
+      "usd_at_entry_price": "2.86",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Wan",
+      "model": "Wan 3.0",
+      "clip_length_seconds": 5,
+      "resolution": "720p",
+      "sound": "not offered",
+      "credits": 65,
+      "usd_at_entry_price": "1.44",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Wan",
+      "model": "Wan 3.0",
+      "clip_length_seconds": 10,
+      "resolution": "720p",
+      "sound": "not offered",
+      "credits": 129,
+      "usd_at_entry_price": "2.86",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Wan",
+      "model": "Wan 3.0 Prime",
+      "clip_length_seconds": 5,
+      "resolution": "720p",
+      "sound": "not offered",
+      "credits": 118,
+      "usd_at_entry_price": "2.62",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Wan",
+      "model": "Wan 3.0 Prime",
+      "clip_length_seconds": 10,
+      "resolution": "720p",
+      "sound": "not offered",
+      "credits": 236,
+      "usd_at_entry_price": "5.23",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "MiniMax",
+      "model": "MiniMax H3",
+      "clip_length_seconds": 5,
+      "resolution": "2K",
+      "sound": "not offered",
+      "credits": 86,
+      "usd_at_entry_price": "1.91",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "MiniMax",
+      "model": "MiniMax H3",
+      "clip_length_seconds": 10,
+      "resolution": "2K",
+      "sound": "not offered",
+      "credits": 172,
+      "usd_at_entry_price": "3.81",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "MiniMax",
+      "model": "MiniMax H3 Max",
+      "clip_length_seconds": 5,
+      "resolution": "768p",
+      "sound": "not offered",
+      "credits": 108,
+      "usd_at_entry_price": "2.39",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "MiniMax",
+      "model": "MiniMax H3 Max",
+      "clip_length_seconds": 10,
+      "resolution": "768p",
+      "sound": "not offered",
+      "credits": 215,
+      "usd_at_entry_price": "4.77",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Gemini",
+      "model": "Gemini Omni Flash 1.2",
+      "clip_length_seconds": 5,
+      "resolution": "720p",
+      "sound": "not offered",
+      "credits": 97,
+      "usd_at_entry_price": "2.15",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Gemini",
+      "model": "Gemini Omni Flash 1.2",
+      "clip_length_seconds": 10,
+      "resolution": "720p",
+      "sound": "not offered",
+      "credits": 193,
+      "usd_at_entry_price": "4.28",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Gemini",
+      "model": "Gemini Omni Flash",
+      "clip_length_seconds": 5,
+      "resolution": "720p",
+      "sound": "not offered",
+      "credits": 129,
+      "usd_at_entry_price": "2.86",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Gemini",
+      "model": "Gemini Omni Flash",
+      "clip_length_seconds": 10,
+      "resolution": "720p",
+      "sound": "not offered",
+      "credits": 258,
+      "usd_at_entry_price": "5.72",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Gemini",
+      "model": "Gemini Omni Flash 1.1",
+      "clip_length_seconds": 5,
+      "resolution": "720p",
+      "sound": "not offered",
+      "credits": 129,
+      "usd_at_entry_price": "2.86",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Gemini",
+      "model": "Gemini Omni Flash 1.1",
+      "clip_length_seconds": 10,
+      "resolution": "720p",
+      "sound": "not offered",
+      "credits": 258,
+      "usd_at_entry_price": "5.72",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Happy Horse Video",
+      "model": "Happy Horse Video",
+      "clip_length_seconds": 5,
+      "resolution": "720p",
+      "sound": "not offered",
+      "credits": 108,
+      "usd_at_entry_price": "2.39",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "Happy Horse Video",
+      "model": "Happy Horse Video",
+      "clip_length_seconds": 10,
+      "resolution": "720p",
+      "sound": "not offered",
+      "credits": 215,
+      "usd_at_entry_price": "4.77",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "FLUX",
+      "model": "FLUX 3 Video",
+      "clip_length_seconds": 5,
+      "resolution": "720p",
+      "sound": "on",
+      "credits": 258,
+      "usd_at_entry_price": "5.72",
+      "checked_on": "2026-11-21"
+    },
+    {
+      "model_family": "FLUX",
+      "model": "FLUX 3 Video",
+      "clip_length_seconds": 10,
+      "resolution": "720p",
+      "sound": "on",
+      "credits": 515,
+      "usd_at_entry_price": "11.42",
+      "checked_on": "2026-11-21"
+    }
+  ]
+}
