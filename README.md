@@ -1,5 +1,7 @@
 # AI video model credit costs
 
+> **Maintained version:** the same per-clip cost table is maintained in [AZERIA-IT/ai-video-clip-cost](https://github.com/AZERIA-IT/ai-video-clip-cost), archived on Zenodo with the DOI [10.5281/zenodo.24272619](https://doi.org/10.5281/zenodo.24272619) and published live at [twistavo.com/pricing/clip-cost](https://twistavo.com/pricing/clip-cost). Cite that repository or the DOI. This repository keeps the 2026-11-21 snapshot below and is not updated.
+
 Credits charged per clip in Twistavo AI Studio, checked on 2026-11-21.
 
 The table lists 26 AI video models, grouped by model family, with the number of credits one 5-second clip and one 10-second clip cost in [Twistavo](https://twistavo.com) AI Studio, and the dollar value of those credits at the $3.99 entry price.
